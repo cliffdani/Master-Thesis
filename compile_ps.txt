@@ -1,0 +1,5 @@
+Microsoft (R) AL Compiler version 17.0.34.45391
+Copyright (C) Microsoft Corporation. All rights reserved
+
+Compilation started for project 'POTextEditor' containing '8' files at '20:56:51.584'.
+
